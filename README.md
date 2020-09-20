@@ -1,6 +1,6 @@
 # 3D-Runner
 
-_This is a simple 3d runner game made in Unity._
+_This is a minimalistic 3d runner game made in Unity._
 
 ## Description
 
